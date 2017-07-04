@@ -105,8 +105,12 @@ header {
 	align-items: center;
 	align-content: space-between;
 	border: 4px solid black;
-	max-width: 16rem;
+	max-width: 28%;
 	flex-wrap: wrap;
+}
+
+#watch {
+	margin: 0 2.75rem;
 }
 	
 .item img {
