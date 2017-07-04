@@ -122,3 +122,32 @@ header {
 	background-color: black;
 	padding: 1rem 1rem;
 }
+
+/* Location and Hours */
+
+.location-hours {
+	display: inline-flex;
+	align-content:space-between;
+	margin-top: 3rem;
+	margin-bottom: 4rem;
+	padding: 1.5rem 2rem;
+	width: 35%;
+	background-color: black;
+	color: white;
+}
+
+/* Footer */
+
+.footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+	height: 10rem;
+}
+
+.footer p {
+	color: white;
+	text-align: left;
+}
+	
