@@ -1,5 +1,6 @@
 body {
 	font-size: 18px;
+	font-family: Helvetica;
 }
 
 /*Header Content*/
@@ -70,5 +71,20 @@ header {
 .new-products h2 {
 	font-size: 2rem;
 	margin-top: 0.25rem;
+}
+
+/* Navigation */
+
+.nav {
+	background-color: firebrick;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.menu span {
+	color: white;
+	align-content: space-between;
+	margin: 0.75rem auto;
 }
 	
